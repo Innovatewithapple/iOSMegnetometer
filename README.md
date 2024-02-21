@@ -25,7 +25,7 @@ To integrate MagnetometerData into your Xcode project using Swift Package Manage
 After adding the package, import MagnetometerData into your Swift file:
 
 ```swift
-import MagnetometerData
+import iOSMagnetometer
 ```
 
 Create an instance of the `Magnetometer` class:
