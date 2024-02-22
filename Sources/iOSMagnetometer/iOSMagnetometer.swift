@@ -129,7 +129,7 @@ public final class Magnetometer: NSObject, CLLocationManagerDelegate{
     }
     
     // Public function that users can call
-    public func publicFunction() {
+    public func mainFunction() {
         // Implementation
         internalFunction()
     }
